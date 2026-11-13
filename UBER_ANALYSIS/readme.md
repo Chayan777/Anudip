@@ -7,7 +7,7 @@ Tools & Technologies
 - Data Visualization
 
 Dashboard Preview
-![Uber Analytics Dashboard](UBER_ANALYSIS/Dashboard.png)
+![Uber Analytics Dashboard](Dashboard.png)
 Key Features
 - Total Revenue Analysis
 - Monthly Revenue Trends
