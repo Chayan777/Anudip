@@ -9,6 +9,7 @@ Tools & Technologies
 - Data Visualization
 
 Dashboard Preview
+
 ![Uber Analytics Dashboard](Dashboard.png)
 
 Key Features
