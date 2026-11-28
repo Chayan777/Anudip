@@ -10,7 +10,7 @@ Tools & Technologies
 
 Dashboard Preview
 
-![Uber Analytics Dashboard](Dashboard.png)
+![Uber Analytics Dashboard](Dahboard.png)
 
 Key Features
 - Total Revenue Analysis
